@@ -1,6 +1,7 @@
 # Outside Skirt
 ## How to run
 ```bash
+$ git clone https://github.com/Science-assignment-reps-for-student/Outside-skirt.git
 $ docker-compose up
 ```
 
